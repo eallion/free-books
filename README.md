@@ -91,6 +91,7 @@
 1. [Golangbot 的 Go 语言初级教程](https://golangbot.com/)，[中译](https://www.yuque.com/ksco/ogg7um)
 1. [Go 高级编程](https://github.com/chai2010/advanced-go-programming-book)
 1. [高性能 Go 代码工坊](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html)
+1. [Go 语言编程](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)（How To Code in Go）
 
 ### 3.3 Python
 
@@ -141,6 +142,7 @@
 1. [Nim 语言编程](http://ssalewski.de/nimprogramming.html)
 1. [OCaml 语言在线教程](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
 1. [高阶 Perl](https://hop.perl.plover.com/)
+1. [Prolog 的艺术](https://mitpress.mit.edu/books/art-prolog-second-edition)（The art of Prolog）
 1. [我爱 Ruby](https://i-love-ruby.gitlab.io/)
 1. [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
 1. [汇编语言初学者教程](https://yurichev.com/writings/AL4B-EN.pdf)（PDF）
@@ -263,4 +265,5 @@
 1. [谷歌的技术文档写作指南](https://developers.google.com/style/)
 1. [《几何原本》在线版](https://www.c82.net/euclid/)
 1. [数据可视化基础](https://serialmentor.com/dataviz/)
+1. [美国海军电气与电子培训系列教材](https://archive.org/search.php?query=subject%3A%22The+Navy+Electricity+and+Electronics+Training+Series%22&sort=publicdate)
 
