@@ -118,6 +118,7 @@
 1. [HelloDjango - Django 博客教程](https://www.zmrenwu.com/courses/HelloDjango-blog-tutorial/)（中文）
 1. [使用 Python 学习计量经济学](https://lectures.quantecon.org/_downloads/pdf/py/Quantitative%20Economics%20with%20Python.pdf)（PDF）
 1. [黑客的贝叶斯方法：以 Python 为例](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+1. [解决算法和数据结构问题（Python 版）](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)（Problem Solving with Algorithms and Data Structures）
 
 ### 3.4 Rust
 
@@ -175,11 +176,12 @@
 1. [A* 算法教程](http://theory.stanford.edu/~amitp/GameProgramming/)
 1. [逆向工程入门](https://github.com/dennis714/RE-for-beginners)（Reverse Engineering for Beginners，[英文](http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf)，[中文卷一](https://beginners.re/RE4B-CN-vol1.pdf), [中文卷二](https://beginners.re/RE4B-CN-vol2.pdf)）
 1. [逆向工程初学者教程](https://www.begin.re/)
-1. [Qt5 教程](https://qmlbook.github.io/)
 1. [函数式编程：以 Scala 为例](https://github.com/winitzki/sofp)
 1. [学习 ClojureScript](https://www.learn-clojurescript.com/)
 1. [并行编程](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 1. [谷歌 SRE（网站可靠性工程）丛书](https://landing.google.com/sre/books/)
+1. [轻松学习 Vim](https://github.com/iggredible/Learn-Vim)（Learn Vim the smart way）
+1. [Qt5 教程](https://qmlbook.github.io/)
 
 ## 六、人工智能
 
@@ -242,6 +244,7 @@
 1. [Crypto 101](https://www.crypto101.io/)
 1. [密码学很容易](https://link.springer.com/book/10.1007%2F978-3-319-21936-3)（Cryptography Made Simple）
 1. [程序员的实用密码学](https://cryptobook.nakov.com/)
+1. [密码学的喜悦](http://web.engr.oregonstate.edu/~rosulekm/crypto/)（The Joy of Cryptography）
 
 ### 7.5 其他理论书籍
 
