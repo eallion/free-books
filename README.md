@@ -52,6 +52,7 @@
 1. [Azure 介绍（第二版）](https://azure.microsoft.com/en-us/resources/azure-for-architects/)，[下载](https://github.com/PacktPublishing/Azure-for-Architects)
 1. [Chrome 扩展及应用开发](https://www.ituring.com.cn/book/1421)（中文）
 1. [网站可靠性工作手册](https://landing.google.com/sre/book.html)
+1. [WebRTC 教程](https://webrtcforthecurious.com/)（WebRTC for the Curious）
 
 ## 二、系统管理
 
@@ -208,6 +209,7 @@
 1. [机器学习的数学基础](https://mml-book.github.io/)
 1. [自然语言处理](https://github.com/jacobeisenstein/gt-nlp-class/raw/master/notes/eisenstein-nlp-notes.pdf)
 1. [面向程序员的深度学习](https://github.com/fastai/fastbook)（Practical Deep Learning for Coders）（[官网](https://course.fast.ai/)）
+1. [从头学习机器学习](https://dafriedman97.github.io/mlbook/content/introduction.html)（Machine Learning from Scratch）
 
 ## 七、数学理论
 
