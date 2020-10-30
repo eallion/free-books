@@ -165,12 +165,13 @@
 ## 五、软件开发
 
 1. [计算机科学入门](https://www.bottomupcs.com/index.xhtml)
-1. [Crafting Interpreters](http://craftinginterpreters.com/)
+1. [编写解释器](http://craftinginterpreters.com/contents.html)（Crafting interpreters）
 1. [Emulator 101](http://www.emulator101.com/)
 1. [计算机程序的结构和解释（SICP）](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 1. [编写程序（Composing Programs）](http://www.composingprograms.com/)
 1. [从零开始写一个操作系统](https://github.com/cfenollosa/os-tutorial)
 1. [编译器教程](https://github.com/DoctorWkt/acwj): 如何写一个最小的 C 语言编译器
+1. [写一个 C 语言解释器](https://github.com/lotabout/write-a-C-interpreter/tree/master/tutorial/en)（Write a C interpreter）
 1. [System Programming](https://github.com/angrave/SystemProgramming/wiki)
 1. [How to Design Programs](https://htdp.org/2018-01-06/Book/index.html)（第二版）
 1. [算法](http://jeffe.cs.illinois.edu/teaching/algorithms/)，by Jeff Erickson，[GitHub 仓库](https://github.com/jeffgerickson/algorithms)
@@ -182,13 +183,14 @@
 1. [并行编程](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 1. [谷歌 SRE（网站可靠性工程）丛书](https://landing.google.com/sre/books/)
 1. [轻松学习 Vim](https://github.com/iggredible/Learn-Vim)（Learn Vim the smart way）
+1. [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)（中文）
 1. [Qt5 教程](https://qmlbook.github.io/)
 
 ## 六、人工智能
 
 1. [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning)，by 吴恩达
 1. [计算与推断：数据科学基础](https://ds8.gitbooks.io/textbook/content/)
-1. [人工智能编程范式](https://github.com/norvig/paip-lisp)
+1. [人工智能编程的 Lisp 范例](https://github.com/norvig/paip-lisp)（Paradigms of Artificial Intelligence Programming）
 1. [Bloomberg 机器学习课程](https://bloomberg.github.io/foml/)
 1. [深度学习/机器学习面试笔记](https://github.com/DiHiera/Algorithm_Interview_Notes-Chinese-master)（中文）
 1. [数据挖掘教材](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
@@ -236,6 +238,7 @@
 
 1. [深度学习的线性代数基础](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)
 1. [线性代数教材](http://joshua.smcvt.edu/linearalgebra/#current_version)
+1. [线性代数](https://hefferon.net/linearalgebra/), by Jim Hefferon
 1. [沉浸式线性代数](http://immersivemath.com/ila/index.html)
 1. [交互式线性代数教程](https://textbooks.math.gatech.edu/ila/)
 
@@ -250,6 +253,7 @@
 
 ### 7.5 其他理论书籍
 
+1. [计算机科学的数学基础](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)（Mathematics for Computer Science, PDF）
 1. [计算机图形学教程](http://www.scratchapixel.com/)
 1. [计算机科学的理论导论](https://introtcs.org/public/index.html)
 1. [好奇者的量子计算入门](https://quantum.country/qcvc)
